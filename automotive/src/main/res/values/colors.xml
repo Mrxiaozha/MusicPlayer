@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 基础颜色 -->
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- 主题色 -->
+    <color name="primary">#FFFFFFFF</color>        // 主色调：白色
+    <color name="primary_dark">#FF000000</color>   // 深色主题：黑色
+    <color name="accent">#FF4CAF50</color>         // 强调色：清新绿色
+    
+    <!-- 背景色 -->
+    <color name="background">#FF000000</color>     // 主背景：纯黑色
+    <color name="surface">#FF121212</color>        // 卡片背景：深灰色
+    <color name="divider">#1F000000</color>        // 分割线：12%透明度的黑色
+    
+    <!-- 文字颜色 -->
+    <color name="text_primary">#DE000000</color>   // 主要文字：深色87%透明度
+    <color name="text_secondary">#99000000</color> // 次要文字：深色60%透明度
+    
+    <!-- 按钮颜色 -->
+    <color name="button_primary">#FF2196F3</color>     // 主要按钮：蓝色
+    <color name="button_secondary">#FFFFFFFF</color>   // 次要按钮：白色背景
+
+    <!-- 频谱颜色 -->
+    <color name="spectrum_start">#FF4CAF50</color>    // 绿色
+    <color name="spectrum_middle">#FF2196F3</color>   // 蓝色
+    <color name="spectrum_end">#FF9C27B0</color>      // 紫色
+</resources> 

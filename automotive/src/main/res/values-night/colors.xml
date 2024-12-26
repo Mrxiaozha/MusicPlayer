@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 主题色 -->
+    <color name="primary">#FF90CAF9</color>        // 夜间主色调：浅蓝色
+    <color name="primary_dark">#FF42A5F5</color>   // 夜间深色主题：中蓝色
+    <color name="accent">#FF81C784</color>         // 夜间强调色：浅绿色
+    
+    <!-- 背景色 -->
+    <color name="background">#FF121212</color>     // 夜间主背景：深灰色
+    <color name="surface">#FF1E1E1E</color>        // 夜间卡片背景：稍浅的深灰色
+    
+    <!-- 文字颜色 -->
+    <color name="text_primary">#DEFFFFFF</color>   // 夜间主要文字：浅色87%透明度
+    <color name="text_secondary">#99FFFFFF</color> // 夜间次要文字：浅色60%透明度
+    
+    <!-- 按钮颜色 -->
+    <color name="button_primary">#FF90CAF9</color>     // 夜间主要按钮：浅蓝色
+    <color name="button_secondary">#FF1E1E1E</color>   // 夜间次要按钮：深灰色
+</resources> 

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    
+    <item
+        android:id="@+id/action_scan"
+        android:title="扫描音乐文件夹"
+        android:icon="@android:drawable/ic_menu_search"
+        app:showAsAction="ifRoom"/>
+    
+    <item
+        android:id="@+id/action_exit"
+        android:title="退出程序"
+        android:icon="@android:drawable/ic_lock_power_off"
+        app:showAsAction="ifRoom"/>
+</menu> 
